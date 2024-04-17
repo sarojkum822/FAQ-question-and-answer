@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  padding: 10px;
+  background-color: aquamarine;
+}
+.container2 {
+  /* background-color: gray; */
+  padding-left: 50px;
+  /* color: white; */
+  display: flex;
+}
+.container button {
+  width: 20px;
+  background-color: rgb(219, 194, 219);
+  margin-right: 5px;
+}
+
+.container {
+  margin: 10px;
+  border-radius: 12px;
+}
